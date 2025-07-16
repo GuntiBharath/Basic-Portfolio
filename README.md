@@ -1,7 +1,5 @@
 # 👨‍💻 G. Bharath's Portfolio
 
-![Portfolio Screenshot](./screenshot.png) *Replace with actual screenshot*
-
 A responsive portfolio website showcasing my projects, skills, and academic background as a Computer Science student at SRM University.
 
 ## 🚀 Features
